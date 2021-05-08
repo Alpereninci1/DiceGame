@@ -1,6 +1,3 @@
-//Alperen İNCi
-//18120205016
-
 public class PlayDie{
 
 	public static void main(String[] args){
