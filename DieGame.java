@@ -1,5 +1,4 @@
-//BU Classta tek tek tüm turları yazdırıyordum. Fakat 1000 kere hesaplamak kısa sürmesine rağmen yazdırma uzun süre alıyordu.
-//Print ettiğim kısımları bu yüzden yoruma aldım.
+
 public class DieGame{
 
     public DieGame(DiePlayer[] players){
